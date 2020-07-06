@@ -1,6 +1,7 @@
 # gif_finder
 
-A new Flutter application.
+A new Flutter application using Giphy API which helps you to search any Gif that you like.
+
 
 ## Getting Started
 
